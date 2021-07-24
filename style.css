@@ -10,7 +10,8 @@ body {
 }
 #main-nav {
   height: 80px;
-  background: #e9c8b3;
+  margin: 5px;
+  background: #eee0d8;
 }
 .container {
   height: 100%;
